@@ -1,6 +1,6 @@
 # 帳密檢查機制
 
-![Index page](./temp.png)
+![Index page](./temp.PNG)
 
 ## 介紹
 
